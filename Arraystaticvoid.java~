@@ -1,0 +1,10 @@
+/**
+ * Auto Generated Java Class.
+ */
+public class Arraystaticvoid {
+  
+  public static void main(String[] args){
+  Array2Lab t = new Array2Lab
+  Array2Lab.arrayToString(new int[][]{{1, 2},{},{3, 4, 5},{6}})
+  }
+}
